@@ -1,6 +1,6 @@
 # 🚀 Advanced Algorithms & Data Structures Lab
 
-### 🎓 Master's Coursework | Tezpur University
+### Advanced Algorithms & Data Structure Implementation
 This repository contains advanced implementations of Data Structures and Algorithms (DSA) developed for the *CSMT503* and *CSMT533* courses. The projects demonstrate proficiency in C/C++ optimization, custom memory management, and algorithm complexity analysis.
 
 ---
