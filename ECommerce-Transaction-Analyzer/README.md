@@ -1,6 +1,6 @@
-# 💳 E-Commerce Transaction Analyzer (C)
+#  E-Commerce Transaction Analyzer (C)
 
-## 📌 Project Overview
+##  Project Overview
 This project is a **high-performance E-Commerce Transaction Analyzer** built using the **C programming language**.  
 It is designed to efficiently process **large transaction datasets** using advanced **sorting and searching algorithms**.
 
@@ -8,18 +8,18 @@ The system reads transaction data from a CSV file and applies optimized algorith
 
 ---
 
-## 🎯 Key Features
+##  Key Features
 
-- ✅ Reads real-world transaction data from CSV  
-- ✅ Implements **Merge Sort** and **Quick Sort**  
-- ✅ Uses **Binary Search** for fast transaction lookup  
-- ✅ Performance benchmarking (swaps & comparisons)  
-- ✅ Randomized pivot strategy to avoid worst-case Quick Sort  
-- ✅ Efficient memory handling in pure C
+- Reads real-world transaction data from CSV  
+- Implements **Merge Sort** and **Quick Sort**  
+- Uses **Binary Search** for fast transaction lookup  
+   Performance benchmarking (swaps & comparisons)  
+-  Randomized pivot strategy to avoid worst-case Quick Sort  
+-  Efficient memory handling in pure C
 
 ---
 
-## 🧠 Algorithms Used
+## Algorithms Used
 
 | Algorithm | Purpose | Complexity |
 |------------|----------|------------|
@@ -29,7 +29,7 @@ The system reads transaction data from a CSV file and applies optimized algorith
 
 ---
 
-## ⚙️ Build & Run Instructions
+##  Build & Run Instructions
 
 ### 🔹 Requirements
 - GCC Compiler  
