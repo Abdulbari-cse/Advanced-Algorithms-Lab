@@ -3,8 +3,7 @@
 👨‍🎓 **Author:** Abdulbari Mohammed Alameer  
 🎓 **Program:** M.Tech in Computer Science and Engineering  
 🏫 **University:** Tezpur University, Assam, India  
-📅 **Semester:** July 2025  
-📌 **Course Codes:** CSMT503, CSMT533  
+ 
 
 ---
 
